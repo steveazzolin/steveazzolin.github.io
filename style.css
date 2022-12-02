@@ -1,0 +1,20 @@
+.paper_title{
+    color:#868e96;
+    font-weight: bold;
+}
+.paper_author{
+    font-style: italic;
+}
+.paper_link{
+    color: var(--color_page);
+}
+tr{
+    border-top: hidden;
+}
+:root {
+--color_page: #e03616;
+}
+.talk_button{
+    background-color:var(--color_page); 
+    border-color:var(--color_page);
+}
